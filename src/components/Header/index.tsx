@@ -3,9 +3,11 @@ import * as Dialog from '@radix-ui/react-dialog'
 import { HeaderContainer, HeaderContent, NewTransactionButton } from './styles'
 import logoImg from '../../assets/logo.svg'
 import { NewTransactionModal } from '../NewTransactionModal'
+
 export function Header() {
   const [isTransactionModalOpen, setIsTransactionModalOpen] =
     useState<boolean>(false)
+
   function handleTransactionModalOpenChange(value: boolean) {
     setIsTransactionModalOpen(value)
   }
