@@ -15,6 +15,38 @@
       "category": "Alimentação",
       "price": 90,
       "createdAt": "2022-07-29T19:35:44.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Iphone 14",
+      "price": 7000,
+      "category": "Outros",
+      "type": "outcome",
+      "createdAt": "2023-07-19T11:51:09.978Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-07-19T11:52:54.164Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-07-19T11:58:14.447Z",
+      "id": 5
+    },
+    {
+      "description": "Salario",
+      "price": 8500,
+      "category": "Salario",
+      "type": "income",
+      "createdAt": "2023-07-19T12:06:09.758Z",
+      "id": 6
     }
   ]
 }
